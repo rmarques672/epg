@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<tv> 
+   <channel id="Canal 13 HD"> 
+       <display-name lang="en">Channel Canal 13 HD</display-name> 
+   </channel> 
+   <channel id="CHV HD"> 
+       <display-name lang="en">Channel CHV HD</display-name> 
+   </channel> 
+   <channel id="TVN HD"> 
+       <display-name lang="en">Channel TVN HD</display-name> 
+   </channel> 
+</tv> 
