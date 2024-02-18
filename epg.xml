@@ -3,10 +3,19 @@
    <channel id="Canal 13 HD"> 
        <display-name lang="en">Channel Canal 13 HD</display-name> 
    </channel> 
+   <programme start="20240218000000 +0000" stop="20240219000000 +0000" channel="Canal 13 HD"> 
+       <title lang="en">My Program</title> 
+   </programme> 
    <channel id="CHV HD"> 
        <display-name lang="en">Channel CHV HD</display-name> 
    </channel> 
+   <programme start="20240218000000 +0000" stop="20240219000000 +0000" channel="CHV HD"> 
+       <title lang="en">My Program</title> 
+   </programme> 
    <channel id="TVN HD"> 
        <display-name lang="en">Channel TVN HD</display-name> 
    </channel> 
+   <programme start="20240218000000 +0000" stop="20240219000000 +0000" channel="TVN HD"> 
+       <title lang="en">My Program</title> 
+   </programme> 
 </tv> 
